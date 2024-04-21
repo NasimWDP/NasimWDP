@@ -31,10 +31,8 @@ Make your Github Profile Nice and Pro
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Fresh Graduate` from the [Faculty of Computers & Informatics](#) at [ABCD University](#).
-- :trophy: 3x `ACPC` Finalist.
+- :school: I am a `Fresh Graduate` from the [Faculty of Geography and Environment](#) at [Kushtia Govt Collage](#).
 - :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
